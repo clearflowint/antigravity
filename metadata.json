@@ -1,0 +1,6 @@
+{
+  "name": "ClearFlow Small Chits",
+  "description": "Small Chits Workflow Automation — 20-month community Chit Fund manager SaaS platform with isolated Share_ID model, Drawn vs Undrawn installment tracking, and Pocket Cash ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
